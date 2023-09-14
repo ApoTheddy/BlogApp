@@ -1,0 +1,186 @@
+[
+  {
+    "user_id": 1,
+    "full_name": "Juan Jesus Esquives Zapata",
+    "username": "ApoTheddy",
+    "birthday": "08/02/2003",
+    "university": "UCV",
+    "career": "Ing. Sistemas",
+    "status": "active",
+    "created_at": "04/08/2023",
+    "posts": [
+      {
+        "post_id": 1,
+        "content": "Hello world this is my new post",
+        "image": null,
+        "type_publication": "text",
+        "status": "active",
+        "comments": [
+          {
+            "comment_id": 1,
+            "content": "oh, wonderfull",
+            "author": 2,
+            "publication": 1
+          }
+        ]
+      },
+      {
+        "post_id": 2,
+        "content": "Appreciate the landscape",
+        "image": "https://cdn.pixabay.com/photo/2012/08/27/14/19/mountains-55067_640.png",
+        "type_publication": "text-image",
+        "status": "active",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "user_id": 2,
+    "full_name": "Maria Rodriguez",
+    "username": "MariaR",
+    "birthday": "05/10/1995",
+    "university": "UNAM",
+    "career": "Psicología",
+    "status": "active",
+    "created_at": "04/08/2023",
+    "posts": [
+      {
+        "post_id": 2,
+        "content": "Just had an amazing day!",
+        "image": null,
+        "type_publication": "text",
+        "status": "active",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "user_id": 3,
+    "full_name": "John Smith",
+    "username": "JSmith",
+    "birthday": "12/15/1988",
+    "university": "Harvard",
+    "career": "Law",
+    "status": "inactive",
+    "created_at": "04/08/2023",
+    "posts": []
+  },
+  {
+    "user_id": 4,
+    "full_name": "Luisa Fernandez",
+    "username": "LuisaF",
+    "birthday": "09/22/1990",
+    "university": "UCLA",
+    "career": "Art History",
+    "status": "active",
+    "created_at": "04/08/2023",
+    "posts": [
+      {
+        "post_id": 1,
+        "content": "Exploring the art world!",
+        "image": null,
+        "type_publication": "text",
+        "status": "active",
+        "comments": [
+          {
+            "comment_id": 1,
+            "content": "Sounds exciting!",
+            "author": 5,
+            "publication": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": 5,
+    "full_name": "Michael Johnson",
+    "username": "MJ",
+    "birthday": "06/08/1985",
+    "university": "MIT",
+    "career": "Computer Science",
+    "status": "active",
+    "created_at": "04/08/2023",
+    "posts": []
+  },
+  {
+    "user_id": 6,
+    "full_name": "Sophia Chen",
+    "username": "SophiaC",
+    "birthday": "03/17/1999",
+    "university": "Stanford",
+    "career": "Medicine",
+    "status": "active",
+    "created_at": "04/08/2023",
+    "posts": [
+      {
+        "post_id": 1,
+        "content": "Saving lives one day at a time!",
+        "image": null,
+        "type_publication": "text",
+        "status": "active",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "user_id": 7,
+    "full_name": "David Lee",
+    "username": "DavidL",
+    "birthday": "11/30/1992",
+    "university": "NYU",
+    "career": "Journalism",
+    "status": "active",
+    "created_at": "04/08/2023",
+    "posts": []
+  },
+  {
+    "user_id": 8,
+    "full_name": "Emma Martinez",
+    "username": "EmmaM",
+    "birthday": "04/12/2000",
+    "university": "Columbia",
+    "career": "Business Administration",
+    "status": "active",
+    "created_at": "04/08/2023",
+    "posts": []
+  },
+  {
+    "user_id": 9,
+    "full_name": "Daniel Brown",
+    "username": "DanB",
+    "birthday": "07/25/1980",
+    "university": "Yale",
+    "career": "History",
+    "status": "active",
+    "created_at": "04/08/2023",
+    "posts": [
+      {
+        "post_id": 1,
+        "content": "Unraveling the mysteries of the past.",
+        "image": null,
+        "type_publication": "text",
+        "status": "active",
+        "comments": [
+          {
+            "comment_id": 1,
+            "content": "Fascinating!",
+            "author": 10,
+            "publication": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": 10,
+    "full_name": "Olivia Taylor",
+    "username": "OliviaT",
+    "birthday": "01/08/1998",
+    "university": "Princeton",
+    "career": "Physics",
+    "status": "active",
+    "created_at": "04/08/2023",
+    "posts": []
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@nestjs/typeorm": "^10.0.0",
+    "mssql": "^9.1.2",
+    "typeorm": "^0.3.17"
+  }
+}

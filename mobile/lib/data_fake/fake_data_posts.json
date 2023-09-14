@@ -1,0 +1,47 @@
+[
+  {
+    "post_id": 1,
+    "content": "Hello world this is my new post",
+    "image": null,
+    "type_publication": "text",
+    "status": "active",
+    "comments": [
+      {
+        "comment_id": 1,
+        "content": "oh, wonderfull",
+        "author": 2,
+        "publication": 1
+      }
+    ]
+  },
+  {
+    "post_id": 2,
+    "content": "Hello world this is my new post",
+    "image": null,
+    "type_publication": "text",
+    "status": "active",
+    "comments": [
+      {
+        "comment_id": 1,
+        "content": "oh, wonderfull",
+        "author": 2,
+        "publication": 1
+      }
+    ]
+  },
+  {
+    "post_id": 3,
+    "content": "Hello world this is my new post",
+    "image": null,
+    "type_publication": "text",
+    "status": "active",
+    "comments": [
+      {
+        "comment_id": 1,
+        "content": "oh, wonderfull",
+        "author": 2,
+        "publication": 1
+      }
+    ]
+  }
+]
